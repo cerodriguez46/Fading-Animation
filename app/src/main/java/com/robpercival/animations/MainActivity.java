@@ -17,7 +17,7 @@ public class MainActivity extends ActionBarActivity {
         ImageView homer = (ImageView) findViewById(R.id.homer);
 
 
-        bart.animate().alpha(0f).setDuration(2000);
+        bart.animate().alpha(0f).setDuration(3000);
 
         homer.animate().alpha(1f).setDuration(3000);
 
